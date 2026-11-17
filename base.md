@@ -24,7 +24,9 @@
 
 \- id : entier, clé primaire.
 
-\- name : texte, non nul.price : réel, non nul.
+\- name : texte, non nul.
+
+\- price : réel, non nul.
 
 \- stock : entier, défaut 0.
 
